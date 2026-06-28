@@ -1,0 +1,4 @@
+invoice_number,date,total_amount
+INV-003,"Feb 1, 2026",99.99
+INV-004,"Feb 2, 2026",75.0
+INV-005,"Feb 3, 2026",300.25
